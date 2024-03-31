@@ -4,7 +4,7 @@
 
 Bize aşağıdaki bağlantılar ile ulaşabilirsiniz.
 
-[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wVS9UKqTVc)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yDAzBsYTRg)
 [![](https://img.shields.io/badge/Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.app.google/ZC739NvhuwVniGim8)
 
 
