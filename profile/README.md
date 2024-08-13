@@ -16,7 +16,7 @@ Bu süreçte sizlerinde deneyimlerini ve desteklerini beklemekteyiz.
 
 > API'yi yazarken mümkün olduğunca detaylı ve basit bir kullanım sunmaya özen gösterdik.
 
-[![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/muhasip/workspace/muhasip-developer/overview)
+[![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/muhasip/workspace/muhasip-api/overview)
 [![](https://img.shields.io/badge/README-048ef5?style=for-the-badge&logo=Readme&logoColor=white)](https://muhasip.readme.io)
 
 ---
